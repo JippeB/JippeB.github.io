@@ -1,3 +1,9 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 35px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
