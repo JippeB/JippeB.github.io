@@ -4,6 +4,12 @@ h1 {
   font-size: 35px;
 }
 
+h2 {
+  color: black;
+  text-align: left;
+  font-size: x-large;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
